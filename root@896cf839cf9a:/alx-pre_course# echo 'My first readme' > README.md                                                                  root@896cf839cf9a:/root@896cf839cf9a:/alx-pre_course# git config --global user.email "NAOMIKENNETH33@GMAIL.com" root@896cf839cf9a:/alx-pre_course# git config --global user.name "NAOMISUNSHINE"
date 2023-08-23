@@ -1,0 +1,2 @@
+root@896cf839cf9a:/alx-pre_course# git config --global user.email "NAOMIKENNETH33@GMAIL.com"
+root@896cf839cf9a:/alx-pre_course# git config --global user.name "NAOMISUNSHINE"
